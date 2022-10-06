@@ -93,7 +93,8 @@ All data can be downloaded locally through [data](assets/data.zip)
 
 ### Detailed Program
 
-[GTPB Timetable](http://gtpb.igc.gulbenkian.pt/bicourses/2021/AM21/Timetable.html)
+[GTPB Timetable](http://gtpb.igc.gulbenkian.pt/bicourses/2022/AM22/Timetable.html)
+
 
 ### Logging on to the Virtual machines
 
